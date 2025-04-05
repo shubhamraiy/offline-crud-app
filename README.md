@@ -60,7 +60,7 @@ offline-crud-app/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/offline-crud-app.git
+   git clone https://github.com/shubhamraiy/offline-crud-app.git
    cd offline-crud-app
    ```
 
