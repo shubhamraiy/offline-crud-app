@@ -59,14 +59,14 @@ offline-crud-app/
 
 1. Clone the repository:
 
-   ```
+   ```bash
    git clone https://github.com/shubhamraiy/offline-crud-app.git
    cd offline-crud-app
    ```
 
 2. Install dependencies:
 
-   ```
+   ```bash
    npm install
    # or
    yarn install
@@ -74,7 +74,7 @@ offline-crud-app/
 
 3. Start the Expo development server:
 
-   ```
+   ```bash
    npx expo start
    # or
    yarn expo start
@@ -88,7 +88,7 @@ offline-crud-app/
 
 5. Alternative: Run on a simulator/emulator:
 
-   ```
+   ```bash
    # For iOS simulator
    npx expo run:ios
 
@@ -114,6 +114,17 @@ The app uses a comprehensive theme system with constants for:
 - Shadows
 
 This ensures consistent styling throughout the application and makes it easy to update the app's appearance.
+
+## Repository Information
+
+- **GitHub Repository**: [offline-crud-app](https://github.com/shubhamraiy/offline-crud-app)
+- **Author**: Shubham Rai
+- **Email**: shubhamraiy@gmail.com
+- **License**: MIT License
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
