@@ -10,6 +10,12 @@ A React Native mobile application that allows users to create, read, update, and
 - **Form Validation**: Input validation for required fields
 - **Responsive Design**: Works on various screen sizes
 
+## Demo
+
+Watch the app in action:
+
+- [Screen Recording (Android & iOS)](https://drive.google.com/file/d/1fIZsa1YtMb1OVXmEc683-PN5PDH_ACjO/view?usp=sharing)
+
 ## Tech Stack
 
 - **React Native**: Cross-platform mobile development
